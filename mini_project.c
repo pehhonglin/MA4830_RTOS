@@ -11,7 +11,7 @@
 //A refers to acceleration
 
 int main(){
-
+//HELLO HELLO HELLO HELLO
     int a,B,E,*p; float z,S,Sx,Sy,V,Vx,Vy,A,U,Ux,Uy,t,Sxx,Syy,zdeg; //definition of variables required (t=time, z=angle to horizontal)
     const float g=9.81;
 
